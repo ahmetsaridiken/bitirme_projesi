@@ -10,7 +10,6 @@ class HomePage extends StatefulWidget {
   final User? user;
 
   HomePage({this.user});
-//giriş yapar aynısı olacak  girmiyor ki  ahmet@gmail.com  123456789
   @override
   _HomePageState createState() => _HomePageState();
 }
