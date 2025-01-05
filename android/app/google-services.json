@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "215912027809",
+    "project_id": "masalinressami-42760",
+    "storage_bucket": "masalinressami-42760.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215912027809:android:4f48b9681ca407fef8c2e0",
+        "android_client_info": {
+          "package_name": "com.example.masalinressami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbAWEyY5_xszUV81zyAnbKPry1Cjy_mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215912027809:android:c52e5cd03b6aa809f8c2e0",
+        "android_client_info": {
+          "package_name": "com.example.masalressami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbAWEyY5_xszUV81zyAnbKPry1Cjy_mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215912027809:android:67a053200b734e79f8c2e0",
+        "android_client_info": {
+          "package_name": "com.masalinressami.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbAWEyY5_xszUV81zyAnbKPry1Cjy_mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
